@@ -1,0 +1,10 @@
+name: PandoraHierarchy
+author: DawnBudgie
+description: Rank players with an easy to use command!
+version: 1.0.0
+main: me.DawnBudgie.PandoraHierarchy.PandoraHierarchy
+soft-depend: [Vault]
+commands:
+  rank:
+    aliases: [setrank, setgroup]
+    description: The default command for PandoraHierarchy!

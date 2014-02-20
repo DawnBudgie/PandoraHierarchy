@@ -1,0 +1,14 @@
+# --------------------------------
+# PandoraHierarchy Configuration File
+# Color codes can be added by using the &[Code] delimiter.
+# To add a single apostrophe use a '' instead.
+# --------------------------------
+
+settings:
+  log-changes: true
+  auto-complete: true
+  notify-update: true
+messages:
+  to-ranked-player: '&9You are now a(n) &5{RANK}&9!'
+  to-online-players: '&c{RANKER}&9 has ranked &3{RANKED}&9 to a(n) &5{RANK}&9!'
+  to-ranking-player: '&9You have ranked &3{RANKED}&9 to a(n) &5{RANK}&9!'
